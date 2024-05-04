@@ -64,6 +64,9 @@
     background-color: rgb(230, 226, 226);
     padding:1px
 }
+#navbar {
+    position: fixed;
+}
 .navbarDark {
     background: #000;
 }
